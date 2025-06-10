@@ -1,8 +1,8 @@
-Name: Zhehao Shen
-Student Number: 041145921
-Section: CST8279_010
-Date: 2025-06-09
-Description: Lab5_library Management System
+# Name: Zhehao Shen
+# Student Number: 041145921
+# Section: CST8279_010
+# Date: 2025-06-09
+# Description: Lab5_library Management System
 
 # Define a Book class
 class Book:
